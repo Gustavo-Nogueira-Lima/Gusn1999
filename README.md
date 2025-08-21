@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, eu sou o Gustavo</h1>
 <h3 align="center">Apaixonado por tecnologia e análise de dados</h3>
 
-- 🌱 Atualmente estou aprendendo **Python, SQL, Estatística**
+- 🌱 Atualmente estou aprendendo **Python, SQL e Estatística**
 
 - 💬 Me pergunte sobre **SQL, Power BI, Python, Excel e IA**
 
